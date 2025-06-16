@@ -88,6 +88,6 @@ MIT License
 - **Duration**: Winter Internship 2024
 
 ## 📞 Contact
-Rishav Kumar Raj
-- LinkedIn: https://www.linkedin.com/in/contactrishavkumar
-- Email: connectwithme.rishav@gmail.com
+ANKIT KUMAR
+- LinkedIn: https://www.linkedin.com/in/ankit-kumar-bb3217259
+- Email: btech60040.22@bitmesra.ac.in
